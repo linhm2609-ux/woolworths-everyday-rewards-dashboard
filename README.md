@@ -23,3 +23,11 @@ Interpretation: members who earn more points have more to redeem, so this shows 
 Screenshots: 
 
 <img width="1177" height="682" alt="image" src="https://github.com/user-attachments/assets/c2200d15-aff6-409c-919d-ad83b9ec49a2" />
+
+How to open:
+- Download KPI woolies Dashboard_location insights.pbix.
+- Open it in Power BI Desktop (free, Windows).
+
+Tools: Power BI Desktop, DAX, Power Query.
+
+License: MIT for my own work (DAX measures, layout, documentation). Logos and data belong to their respective owners
