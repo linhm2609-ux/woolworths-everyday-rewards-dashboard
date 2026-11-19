@@ -19,6 +19,7 @@ Location (Chatswood): points redeemed are 2.39% of points earned, below the 2.48
 Redemption mix (Chatswood): of 68,274 points redeemed, 92.6% come from Active members. Within Active members, Shopping Discount makes up 66%, Fuel Discount 23%, Qantas Points 6% and Donation 4%.
 Key influencers: the strongest driver of points redeemed is points earned. When the sum of points earned is more than 45, average points redeemed is about 148, which is +63.32 points vs. the average of 84.36 for everything else.
 Interpretation: members who earn more points have more to redeem, so this shows association, not cause.
+
 Screenshots: 
 
 <img width="1177" height="682" alt="image" src="https://github.com/user-attachments/assets/c2200d15-aff6-409c-919d-ad83b9ec49a2" />
